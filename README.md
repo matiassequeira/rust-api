@@ -21,4 +21,4 @@ To reload upon changes.
 TODO
 
 * Use the same endpoint for create/update
-* Coount how many updated/deleted objects and throw error oterhwise
+* Coount how many updated/deleted objects and throw error otherwise
